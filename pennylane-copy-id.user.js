@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Pennylane Display & Copy Current ID (Client / Invoice)
-// @downloadURL
-// @updateURL
+// @downloadURL  https://raw.githubusercontent.com/RaphRsl/tampermonkey/main/pennylane-copy-id.user.js
+// @updateURL    https://raw.githubusercontent.com/RaphRsl/tampermonkey/main/pennylane-copy-id.user.js
 // @namespace    http://yourdomain.com/
 // @version      1.0
 // @description  Show current Client ID or Invoice ID with a copy button in Pennylane.
