@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Pennylane Quick Invoice & Client Jump
-// @downloadURL  https://raw.githubusercontent.com/RaphRsl/tampermonkey/main/pennylane-copy-id.user.js
-// @updateURL    https://raw.githubusercontent.com/RaphRsl/tampermonkey/main/pennylane-copy-id.user.js
+// @downloadURL  https://raw.githubusercontent.com/RaphRsl/tampermonkey/main/pennylane-quick-jump.user.js
+// @updateURL    https://raw.githubusercontent.com/RaphRsl/tampermonkey/main/pennylane-quick-jump.user.js
 // @namespace    https://github.com/RaphRsl/tampermonkey
 // @version      0.6
 // @description  Jump directly to a client ID or invoice ID in Pennylane.
